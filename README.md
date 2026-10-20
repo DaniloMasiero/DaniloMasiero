@@ -1,8 +1,8 @@
 # Hi, I'm Danilo
 
-Senior Data Analyst at Ball Corporation (Global Supply Chain Data Analytics), moving into data science.
-I work with supply chain and manufacturing data: forecasting, root-cause analysis, and the dbt and
-Databricks foundations that models depend on. Open to remote Data Scientist and Analytics roles.
+Senior Data Analyst at Ball Corporation (Global Supply Chain Data Analytics).
+I work with supply chain and manufacturing data: Power BI reporting, root-cause analysis, forecasting,
+and the dbt and Databricks models behind them. Open to remote Data Analyst, BI and Analytics Engineer roles.
 
 ## Projects
 
@@ -19,7 +19,7 @@ and delivery driver efficiency.
 
 ## Stack
 
-Python (pandas, NumPy, LightGBM) · SQL · dbt · Databricks · Snowflake · Power BI · Git
+SQL · Power BI · dbt · Databricks · Snowflake · Python (pandas, NumPy, LightGBM) · Git
 
 ## Contact
 
